@@ -1,7 +1,7 @@
 # E_commerce Customers 
 In this project I will generate new features, analyse the data and train a linear regression model. Further i will determine the highest contributing feature to the target variable "Yearly Amount Spent".
 
-![Alt text](../images/summary.png)
+![Alt text](images/summary.png)
 
 ## Goal
 This dataset has data of customers who buys clothes online. The store offers in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
@@ -15,7 +15,9 @@ We work with a company’s e-commerce customer CSV file. This file contains cust
 * Length of Membership: how many years the customer has been a member
 * Yearly Amount Spent: the average yearly amount spent by the customer in dollars
 
-## Notebook [here](.../Notebooks/ecommerce_customers.ipynb)
+## Notebook  
+View notebook [here](https://nbviewer.org/github/lygonian/e_commerce_customers/blob/master/notebooks/ecommerce_customers.ipynb) 
+File saved [here](.../Notebooks/ecommerce_customers.ipynb)  
 The notebook includes:
 1. Data preparation
 2. Feature engineering:  
