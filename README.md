@@ -16,8 +16,8 @@ We work with a company’s e-commerce customer CSV file. This file contains cust
 * Yearly Amount Spent: the average yearly amount spent by the customer in dollars
 
 ## Notebook  
-View notebook [here](https://nbviewer.org/github/lygonian/e_commerce_customers/blob/master/notebooks/ecommerce_customers.ipynb) 
-File saved [here](.../Notebooks/ecommerce_customers.ipynb)  
+View notebook [here](https://nbviewer.org/github/lygonian/e_commerce_customers/blob/master/notebooks/ecommerce_customers.ipynb)  
+File saved [here](Notebooks/ecommerce_customers.ipynb)  
 The notebook includes:
 1. Data preparation
 2. Feature engineering:  
